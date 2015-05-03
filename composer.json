@@ -1,0 +1,8 @@
+{
+  "name": "e-projects/estonian-personal-code",
+  "autoload": {
+    "psr-4": {
+      "EProjects\\EstonianPersonalCode\\": "src/"
+    }
+  }
+}
